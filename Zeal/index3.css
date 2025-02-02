@@ -1,0 +1,19 @@
+body {
+    background-color: #b8ebcd;
+  }
+.container {
+    display: flex;
+    align-items: center;
+    gap: 650px;
+    background-color: rgb(#a5dfbd);
+    padding: 80px;
+    border-radius: 20px;
+    margin: auto;
+    width: 900px;
+
+} 
+.title{
+    margin: 0;
+    font-size: 24px;
+    color: white;
+} 

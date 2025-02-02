@@ -1,0 +1,41 @@
+.ab {}
+
+body {
+    background-color: #B8EBCD;
+}
+
+/* Container with flexbox layout */
+.container {
+    display: flex;
+    align-items: center;     /* Align the items vertically in the center */
+    gap: 650px;               /* Add a gap between title and input box, similar to a navbar */
+    background-color: #A5DFBD;  /* Background color */
+    padding: 80px;              /* Padding around the content */
+    border-radius: 20px;       /* Optional: rounded corners */
+    margin: auto;              /* Center the container horizontally */
+    width: 900px;
+                /* Set a fixed width */
+               /* Set a fixed height */
+}
+
+/* Title styling */
+.title {
+    margin: 0;                /* Remove default margin */
+    font-size: 24px;          /* Font size for the title */
+    color: white;             /* White text color for contrast */
+}
+
+/* Input box styling */
+.input-box {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;  /* Optional: rounded corners for the input box */
+    border: none;        /* Remove default input border */
+    width: 200px;         /* Set a fixed width for the input box */
+}
+img{
+    height: 100px;
+    width: 250px;
+    padding-left: 150px;
+    padding-bottom:50px;
+}

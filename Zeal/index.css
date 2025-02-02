@@ -1,0 +1,62 @@
+#second{
+    background-color: darkkhaki;
+width :100px;
+height: 100px;
+margin-left: 100PX;
+border: 1px;
+}
+.box{
+    height: 50px;
+    width: 100px;
+    border: 3px;
+
+}
+#padding{
+    padding-top: 30px;
+    color: blue
+}
+#clickme{
+    background-color: chocolate;
+}
+#tree{
+ background-color: brown;
+ height: 56px;
+ width: 34px;
+ border-color: black;
+
+}
+.nav{
+    padding-left: 50px;
+    margin-top: 5px;
+    border: 3px;
+    background-color: brown;
+    margin-left: 3px;
+}
+*{
+    background-color: blue;
+}
+.iga{
+    padding-left: 50px;
+    margin-top: 5px;
+    border: 3px;
+    background-color: aqua;
+    margin-left: 3px;
+}
+.an{
+    display: flex;
+}
+.tio{
+    padding-left: 50px;
+    margin-top: 5px;
+    border: 3px;
+    background-color: burlywood;
+    margin-left: 3px;
+}
+.ka{
+    padding-left: 50px;
+    margin-top: 5px;
+    border: 3px;
+    background-color: blue;
+    margin-left: 3px;
+}
+    
